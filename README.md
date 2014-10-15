@@ -1,7 +1,7 @@
 CAPTCHA-JSP-SERVLET
 ===================
 
-how to create captcha in jsp
+How to create the captcha with jsp.
 
 ===================
 
@@ -11,12 +11,12 @@ Details: http://www.kaykisiz.com/how-to-create-captcha-in-java/
 
 Technologys
 ***************
-JSP
-SERVLET
-WEBSPHERE LİBERTY PROFİLE
+Jsp
+Servlet
+Websphere Liberty Profile
 
-NOTE: THİS APP İS RUNNİNG MOCK DATA.
+Note: This application is runnig with mock data.
 
 ===================
 
-Mehmet KAYKISIZ
+Created by: Mehmet KAYKISIZ
